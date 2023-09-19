@@ -1,0 +1,27 @@
+plugins:
+  - "@semantic-release/commit-analyzer"
+  - "@semantic-release/release-notes-generator"
+  - "@semantic-release/changelog"
+  - "@conveyal/maven-semantic-release"
+  - "@semantic-release/gitlab"
+  - "semantic-release-gitlab-registry"
+  - - "@semantic-release/git"
+    - assets:
+      - CHANGELOG.md
+      message: |-
+        ci(release): ${nextRelease.version} [skip ci]
+
+        ${nextRelease.notes}
+branches:
+  #child branches coming from tagged version for bugfix (1.1.x) or new features (1.x)
+  #maintenance branch
+  - name: "+([0-9])?(.{+([0-9]),x}).x"
+    channel: "stable"
+  #release a production version when merging towards main
+  - name: "main"
+    channel: "stable"
+  #prerelease branch
+  - name: "pre/beta"
+    channel: "snapshot"
+    prerelease: "beta"
+debug: true
