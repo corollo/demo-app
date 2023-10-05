@@ -3,8 +3,7 @@ plugins:
   - "@semantic-release/release-notes-generator"
   - "@semantic-release/changelog"
   - "@conveyal/maven-semantic-release"
-  - "@semantic-release/gitlab"
-  - "semantic-release-gitlab-registry"
+  - "@semantic-release/github"
   - - "@semantic-release/git"
     - assets:
       - CHANGELOG.md
