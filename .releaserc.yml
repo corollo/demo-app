@@ -28,3 +28,4 @@ branches:
     channel: "snapshot"
     prerelease: "beta"
 debug: true
+skipMavenDeploy: true
