@@ -5,7 +5,8 @@ plugins:
   - "@conveyal/maven-semantic-release"
   - "@semantic-release/github"
   - - "@semantic-release/exec"
-    - publishCmd: "echo 'latest_tag=${nextRelease.version}' > /workspace/iac-source/latest_tag.env && cat /workspace/iac-source/latest_tag.env "
+#    - publishCmd: "echo 'latest_tag=${nextRelease.version}' > /workspace/iac-source/latest_tag.env && cat /workspace/iac-source/latest_tag.env "
+    - publishCmd: "echo 'latest_tag=${nextRelease.version}'  "
   - - "@semantic-release/git"
     - assets:
       - CHANGELOG.md
