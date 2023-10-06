@@ -1,3 +1,11 @@
+## [1.0.2](https://github.com/corollo/demo-app/compare/v1.0.1...v1.0.2) (2023-10-06)
+
+
+### Bug Fixes
+
+* add exec conf ([56fa12d](https://github.com/corollo/demo-app/commit/56fa12d660dc2c7a2dcf720316c809d03c51e503))
+* add exec conf ([13be6df](https://github.com/corollo/demo-app/commit/13be6df397ddf16aa32df3e9eb0d99f5a41bc220))
+
 ## [1.0.1](https://github.com/corollo/demo-app/compare/v1.0.0...v1.0.1) (2023-10-06)
 
 
