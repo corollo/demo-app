@@ -9,6 +9,7 @@ plugins:
   - - "@semantic-release/git"
     - assets:
       - CHANGELOG.md
+      - "**/pom.xml"
       message: |-
         ci(release): ${nextRelease.version} [skip ci]
 
