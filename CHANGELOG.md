@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/corollo/demo-app/compare/v1.0.4...v1.0.5) (2023-10-06)
+
+
+### Bug Fixes
+
+* save version in file ([5a5ceae](https://github.com/corollo/demo-app/commit/5a5ceae675da8cf4ad224b3b127588bd3d43167f))
+
 ## [1.0.4](https://github.com/corollo/demo-app/compare/v1.0.3...v1.0.4) (2023-10-06)
 
 
