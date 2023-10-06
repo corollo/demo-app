@@ -6,7 +6,7 @@ plugins:
   - "@semantic-release/github"
   - - "@semantic-release/exec"
 #    - publishCmd: "echo 'latest_tag=${nextRelease.version}' > /workspace/iac-source/latest_tag.env && cat /workspace/iac-source/latest_tag.env "
-    - publishCmd: "echo 'latest_tag=${nextRelease.version}'  "
+    - publishCmd: "echo 'latest_tag=${nextRelease.version}' > ./latest_tag.env "
   - - "@semantic-release/git"
     - assets:
       - CHANGELOG.md
