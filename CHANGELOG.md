@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/corollo/demo-app/compare/v1.0.2...v1.0.3) (2023-10-06)
+
+
+### Bug Fixes
+
+* pom version ([4cc2dc4](https://github.com/corollo/demo-app/commit/4cc2dc45509066c65e2ee369ed366528892184e9))
+
 ## [1.0.2](https://github.com/corollo/demo-app/compare/v1.0.1...v1.0.2) (2023-10-06)
 
 
