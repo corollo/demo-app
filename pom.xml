@@ -11,7 +11,7 @@
 
     <groupId>com.example</groupId>
     <artifactId>demo-app</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.6</version>
 
     <name>demo-app</name>
     <description>A simple Spring Boot 2.x app to send hello world message to a user</description>
@@ -44,6 +44,17 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
+        <pluginManagement>
+            <plugins>
+                <plugin>
+                    <artifactId>maven-deploy-plugin</artifactId>
+                    <version>3.0.0-M1</version>
+                    <configuration>
+                        <skip>true</skip>
+                    </configuration>
+                </plugin>
+            </plugins>
+        </pluginManagement>
     </build>
 
 </project>
