@@ -1,3 +1,12 @@
+## [1.0.1](https://github.com/corollo/demo-app/compare/v1.0.0...v1.0.1) (2023-10-06)
+
+
+### Bug Fixes
+
+* print version with exec ([bc72b68](https://github.com/corollo/demo-app/commit/bc72b68859450ae049a8950f257ec1ea6f78b69c))
+* remove exec conf ([83568f3](https://github.com/corollo/demo-app/commit/83568f33a82e15c91fe10a4a30363308b3d452bb))
+* skip maven deploy ([c29b08c](https://github.com/corollo/demo-app/commit/c29b08c7f052338f5230a3526aa691228cf0ea08))
+
 # 1.0.0 (2023-10-05)
 
 
