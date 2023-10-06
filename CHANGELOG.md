@@ -1,3 +1,10 @@
+## [1.0.7-beta.2](https://github.com/corollo/demo-app/compare/v1.0.7-beta.1...v1.0.7-beta.2) (2023-10-06)
+
+
+### Bug Fixes
+
+* skip maven deploy ([7f9d03b](https://github.com/corollo/demo-app/commit/7f9d03b4cc9c882b4dab3e952e97f36d5c71a959))
+
 ## [1.0.7-beta.1](https://github.com/corollo/demo-app/compare/v1.0.6...v1.0.7-beta.1) (2023-10-06)
 
 
