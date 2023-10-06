@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/corollo/demo-app/compare/v1.0.3...v1.0.4) (2023-10-06)
+
+
+### Bug Fixes
+
+* semantic conf ([c3c042e](https://github.com/corollo/demo-app/commit/c3c042ef8d84bdb8d9764ead0bb7609b5a26ee4c))
+
 ## [1.0.3](https://github.com/corollo/demo-app/compare/v1.0.2...v1.0.3) (2023-10-06)
 
 
