@@ -14,7 +14,7 @@ RUN npm install
 EXPOSE 3000
 
 # Esegui il comando sed per sostituire il valore nel file HTML prima di avviare l'applicazione
-RUN chmod +x replace.sh && ./replace.sh
+RUN chmod +x replace.sh
 
 # Avvia l'applicazione Node.js
-CMD ["node", "server.js"]
+CMD ["./start.sh"]
