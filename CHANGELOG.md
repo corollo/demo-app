@@ -1,3 +1,10 @@
+## [1.0.11-beta.1](https://github.com/subzero-team/demo-app/compare/v1.0.10...v1.0.11-beta.1) (2023-11-06)
+
+
+### Bug Fixes
+
+* Readme ([380a970](https://github.com/subzero-team/demo-app/commit/380a97012e28bbc8ed924e25e2338c8eaaf68ef1))
+
 ## [1.0.10](https://github.com/subzero-team/demo-app/compare/v1.0.9...v1.0.10) (2023-11-06)
 
 
