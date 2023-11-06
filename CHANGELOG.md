@@ -1,3 +1,10 @@
+## [1.0.9](https://github.com/subzero-team/demo-app/compare/v1.0.8...v1.0.9) (2023-11-06)
+
+
+### Bug Fixes
+
+* Dockerfile base image ([8a84168](https://github.com/subzero-team/demo-app/commit/8a841684177492b9abb66f9b6bf9e704f9e1123d))
+
 ## [1.0.8](https://github.com/subzero-team/demo-app/compare/v1.0.7...v1.0.8) (2023-11-06)
 
 
