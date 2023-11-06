@@ -7,6 +7,9 @@ plugins:
   - "@semantic-release/github"
   - ['@semantic-release/exec', {
       publishCmd: 'docker tag $CI_REGISTRY_IMAGE:latest $CI_REGISTRY_IMAGE:${nextRelease.version} && docker push $CI_REGISTRY_IMAGE:${nextRelease.version} && docker push $CI_REGISTRY_IMAGE:latest'
+  }]
+  - ['@semantic-release/exec', {
+      publishCmd: "echo 'latest_tag=${nextRelease.version}' > ./latest_tag.env && echo 'save latest_tag=${nextRelease.version} in file ./latest_tag.env'"
   }]  
   - - "@semantic-release/git"
     - assets:
