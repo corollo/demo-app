@@ -12,3 +12,4 @@ Great for testing simple deployments to the cloud
 docker build -t node-hello:1.0.0 .
 
 docker run -p 3000:3000 -e version=1.0.1 node-hello:1.0.0
+ 
