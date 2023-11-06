@@ -5,6 +5,9 @@ plugins:
   - - "@semantic-release/npm"
     - "npmPublish": false
   - "@semantic-release/github"
+  - ['@semantic-release/exec', {
+      publishCmd: 'docker tag ${CI_REGISTRY}/${CI_IMAGE_NAME}:latest ${CI_REGISTRY}/${CI_IMAGE_NAME}:${nextRelease.version} && docker push ${CI_REGISTRY}/${CI_IMAGE_NAME}:${nextRelease.version}'
+  }]  
   - - "@semantic-release/git"
     - assets:
       - package.json
