@@ -1,5 +1,5 @@
 # Usa l'immagine Node.js 18.x come base
-FROM node:18
+FROM node:lts-alpine
 
 # Crea una directory di lavoro all'interno del container
 WORKDIR /app
@@ -8,7 +8,7 @@ WORKDIR /app
 COPY . .
 
 # Installa le dipendenze dell'applicazione
-RUN npm install
+RUN npm ci
 
 # Esponi la porta su cui Express ascolterà le richieste (sostituisci 3000 con la porta desiderata)
 EXPOSE 3000
