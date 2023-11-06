@@ -1,3 +1,10 @@
+## [1.0.10](https://github.com/subzero-team/demo-app/compare/v1.0.9...v1.0.10) (2023-11-06)
+
+
+### Bug Fixes
+
+* add save latest_tag to file ([c763f9a](https://github.com/subzero-team/demo-app/commit/c763f9abcadd3b812c4058550dc7e70608ae11a9))
+
 ## [1.0.9](https://github.com/subzero-team/demo-app/compare/v1.0.8...v1.0.9) (2023-11-06)
 
 
