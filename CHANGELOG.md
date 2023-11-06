@@ -1,3 +1,11 @@
+## [1.0.8](https://github.com/subzero-team/demo-app/compare/v1.0.7...v1.0.8) (2023-11-06)
+
+
+### Bug Fixes
+
+* .releaserc conf ([2b2a919](https://github.com/subzero-team/demo-app/commit/2b2a919558f747507908e4b095f06c04af633f21))
+* .releaserc conf ([4e50cf2](https://github.com/subzero-team/demo-app/commit/4e50cf2eaa60be7059d7ef5882e30a4d515c273f))
+
 ## [1.0.7](https://github.com/corollo/demo-app/compare/v1.0.6...v1.0.7) (2023-10-09)
 
 
