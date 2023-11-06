@@ -1,3 +1,11 @@
+## [1.0.11-beta.2](https://github.com/subzero-team/demo-app/compare/v1.0.11-beta.1...v1.0.11-beta.2) (2023-11-06)
+
+
+### Bug Fixes
+
+* docker start.sh file ([ceff2ec](https://github.com/subzero-team/demo-app/commit/ceff2ecc028cf01319760dc286709f24b0c18014))
+* fix readme ([97da925](https://github.com/subzero-team/demo-app/commit/97da925d9615791d0bd3744972ea6f9ae9e6e153))
+
 ## [1.0.11-beta.1](https://github.com/subzero-team/demo-app/compare/v1.0.10...v1.0.11-beta.1) (2023-11-06)
 
 
