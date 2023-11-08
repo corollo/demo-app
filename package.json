@@ -1,6 +1,6 @@
 {
   "name": "node-hello",
-  "version": "1.0.11-beta.2",
+  "version": "1.0.11-beta.3",
   "description": "",
   "private": true,
   "main": "index.js",

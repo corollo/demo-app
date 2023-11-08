@@ -1,3 +1,13 @@
+## [1.0.11-beta.3](https://github.com/subzero-team/demo-app/compare/v1.0.11-beta.2...v1.0.11-beta.3) (2023-11-08)
+
+
+### Bug Fixes
+
+* fix README.md ([28d5f80](https://github.com/subzero-team/demo-app/commit/28d5f804b7091b0f3f504ea34206cab73f7312aa))
+* fix typo in README.md ([6f0c17f](https://github.com/subzero-team/demo-app/commit/6f0c17fda9269b530090dd18fea21d0bb5a1f396))
+* typo in README.md ([0d5de50](https://github.com/subzero-team/demo-app/commit/0d5de50d53d68a7488af90bcc755afb224512845))
+* typo in README.md ([1839103](https://github.com/subzero-team/demo-app/commit/1839103656b15d7133c00c87591233100718c129))
+
 ## [1.0.11-beta.2](https://github.com/subzero-team/demo-app/compare/v1.0.11-beta.1...v1.0.11-beta.2) (2023-11-06)
 
 
