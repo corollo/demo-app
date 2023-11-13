@@ -1,3 +1,11 @@
+## [1.0.11-beta.4](https://github.com/subzero-team/demo-app/compare/v1.0.11-beta.3...v1.0.11-beta.4) (2023-11-13)
+
+
+### Bug Fixes
+
+* index.html page name ([9471e5b](https://github.com/subzero-team/demo-app/commit/9471e5be58a4299b7de7d5ead6b1996661f295ec))
+* update .releaserc.yml file ([2614b1e](https://github.com/subzero-team/demo-app/commit/2614b1e23d9229fefdb1fb0c53ee330554553885))
+
 ## [1.0.11-beta.3](https://github.com/subzero-team/demo-app/compare/v1.0.11-beta.2...v1.0.11-beta.3) (2023-11-08)
 
 
