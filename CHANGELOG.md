@@ -1,3 +1,10 @@
+## [1.0.11-beta.8](https://github.com/subzero-team/demo-app/compare/v1.0.11-beta.7...v1.0.11-beta.8) (2023-11-13)
+
+
+### Bug Fixes
+
+* server.js ([78d1dbc](https://github.com/subzero-team/demo-app/commit/78d1dbce8926128058448e96f74d81b6fe82fe35))
+
 ## [1.0.11-beta.7](https://github.com/subzero-team/demo-app/compare/v1.0.11-beta.6...v1.0.11-beta.7) (2023-11-13)
 
 
