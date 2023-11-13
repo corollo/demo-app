@@ -34,7 +34,7 @@ plugins:
     - "npmPublish": false
   - "@semantic-release/github"
   - ['@codedependant/semantic-release-docker', {
-      dockerProject: '$CI_REGISTRY',
+      dockerProject: $CI_REGISTRY,
       dockerLogin: false
   }]
   # - ['@semantic-release/exec', {
