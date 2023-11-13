@@ -1,3 +1,13 @@
+## [1.0.11-beta.5](https://github.com/subzero-team/demo-app/compare/v1.0.11-beta.4...v1.0.11-beta.5) (2023-11-13)
+
+
+### Bug Fixes
+
+* update .releaserc ([88af79e](https://github.com/subzero-team/demo-app/commit/88af79ef572e4ec10c63e9792531c2436035f048))
+* update .releaserc ([7c4e8da](https://github.com/subzero-team/demo-app/commit/7c4e8da64522fe51547a5d001154b98ba2d431d4))
+* update .releaserc ([322a670](https://github.com/subzero-team/demo-app/commit/322a6708c89ead429fd738cd96a4299f6b4a3228))
+* update .releaserc ([7a25043](https://github.com/subzero-team/demo-app/commit/7a25043bf8a016046e9b7d1d73cfa4b44e59f46c))
+
 ## [1.0.11-beta.4](https://github.com/subzero-team/demo-app/compare/v1.0.11-beta.3...v1.0.11-beta.4) (2023-11-13)
 
 
