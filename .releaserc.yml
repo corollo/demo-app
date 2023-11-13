@@ -34,7 +34,8 @@ plugins:
     - "npmPublish": false
   - "@semantic-release/github"
   - ['@codedependant/semantic-release-docker', {
-      dockerProject: '$CI_REGISTRY'
+      dockerProject: '$CI_REGISTRY',
+      dockerLogin: false
   }]
   # - ['@semantic-release/exec', {
   #     publishCmd: 'docker tag $CI_REGISTRY_IMAGE:latest $CI_REGISTRY_IMAGE:${nextRelease.version} && docker push $CI_REGISTRY_IMAGE:${nextRelease.version} && docker push $CI_REGISTRY_IMAGE:latest'
