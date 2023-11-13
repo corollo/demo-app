@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 const path = require('path');
 
-// Definisci la directory 'public' come directory statica
+// Definisci la directory 'public' come directory statica 
 app.use(express.static(path.join(__dirname, 'public')));
 
 // Altri gestori di route o middleware possono essere definiti qui
