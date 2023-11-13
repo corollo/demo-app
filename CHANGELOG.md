@@ -1,3 +1,10 @@
+## [1.0.11-beta.7](https://github.com/subzero-team/demo-app/compare/v1.0.11-beta.6...v1.0.11-beta.7) (2023-11-13)
+
+
+### Bug Fixes
+
+* update .releaserc ([9cc9fcc](https://github.com/subzero-team/demo-app/commit/9cc9fcc209ece9e895a51ab2b89998dcdd72d83f))
+
 ## [1.0.11-beta.6](https://github.com/subzero-team/demo-app/compare/v1.0.11-beta.5...v1.0.11-beta.6) (2023-11-13)
 
 
